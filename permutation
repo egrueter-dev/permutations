@@ -1,0 +1,10 @@
+
+
+# goal is to determine the number of possible combinations given a set of predfined numbers. 
+
+
+
+## add the number of items you would like to permutate
+
+puts "Add numbers now"
+puts
